@@ -1,0 +1,18 @@
+#cv{
+    background-color: rgb (239,228,176);
+    width: 50%;
+}
+
+#bloc_uno{
+    width: 5%;
+}
+
+#bloc_dos{
+    width: 50%;
+    margin left: 150px;
+}
+
+#bloc_uno, #bloc_dos{
+    display: inline-block;
+    vertical-align: top;
+    }
